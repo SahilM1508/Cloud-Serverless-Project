@@ -91,7 +91,7 @@ If you want to deploy this project using AWS Serverless Services, refer to the f
 
 - **Manual Deployment:** Explore the detailed [blog post](#) for step-by-step instructions on manually setting up the project.
 
-- **Terraform Deployment:** For an automated infrastructure-as-code approach, check out the [Terraform repository](https://github.com/AmanPathak-DevOps/Terraform-for-AWS/blob/master/Non-Modularized/AWS-Serverless-Project/) and follow the provided instructions.
+- **Terraform Deployment:** For an automated infrastructure-as-code approach, check out the [Terraform repository](https://github.com/Pathak-DevOps/Terraform-for-AWS/blob/master/Non-Modularized/AWS-Serverless-Project/) and follow the provided instructions.
 
 ## Contributing
 
