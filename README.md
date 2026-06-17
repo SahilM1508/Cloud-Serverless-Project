@@ -2,10 +2,6 @@
 
 A full-stack serverless web application deployed on AWS using Amplify, API Gateway, Lambda, and DynamoDB.
 
-## Live Demo
-
-🌐 Live Application: `https://master.d15qybixo5lzep.amplifyapp.com`
-
 ## AWS Services Used
 
 * AWS Amplify (Frontend Hosting)
